@@ -1,0 +1,11 @@
+com/farmcollector/application/PlantServiceImpl.class
+com/farmcollector/domain/HarvestedData.class
+com/farmcollector/application/HarvestService.class
+com/farmcollector/FarmCollectorApplication.class
+com/farmcollector/api/FarmReportController.class
+com/farmcollector/api/HarvestedController.class
+com/farmcollector/domain/PlantedData.class
+com/farmcollector/api/PlantedController.class
+com/farmcollector/repository/PlantingRepository.class
+com/farmcollector/api/CropReportController.class
+com/farmcollector/application/PlantService.class
