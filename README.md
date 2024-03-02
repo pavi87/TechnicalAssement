@@ -8,7 +8,7 @@
         Endpoint: /api/harvested
         Method: POST
         Request Body: JSON data containing harvested information.
-        Functionality: Accepts harvested data for a specific farm and season, calculates the actual vs expected product, and stores it in the database.
+        Functionality: Accepts harvested data for a specific farm and season and stores it in the database.
 
     Farm Report API:
         Endpoint: /api/report/farm/{farmName}/season/{season}
